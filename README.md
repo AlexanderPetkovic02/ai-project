@@ -77,5 +77,4 @@ To grow, the project would benefit from:
 ## Acknowledgments
 
 * Based on concepts from Woebot and Wysa (AI mental health apps)
-* Data from [EmpatheticDialogues](https://huggingface.co/datasets/empathetic_dialogues)
-* Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stress_relief_tips.jpg) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
