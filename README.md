@@ -76,5 +76,8 @@ To grow, the project would benefit from:
 
 ## Acknowledgments
 
-* Based on concepts from Woebot and Wysa (AI mental health apps)
+* Inspired by concepts from AI mental health apps like [Woebot](https://woebothealth.com/) and [Wysa](https://www.wysa.io/)
+* Training data from the [EmpatheticDialogues dataset on Hugging Face](https://huggingface.co/datasets/empathetic_dialogues)
+* Images used in this project:
+  * `AI-chatbot-therapist.webp` – Sourced for conceptual illustration only.
 
