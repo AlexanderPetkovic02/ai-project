@@ -31,8 +31,8 @@ Used in:
 * Late-night emotional support situations
 * Everyday self-care routines
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stress_relief_tips.jpg/640px-Stress_relief_tips.jpg" width="500">
-<sub><sup>Image: Stress relief tips / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</sup></sub>
+<img src="AI-chatbot-therapist.webp" width="400">
+<sub><sup>Illustration: AI-powered chatbot offering support</sup></sub>
 
 ---
 
